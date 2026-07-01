@@ -1,23 +1,23 @@
 # WEEKLY_STATUS.md
 ## Project Milestone 3: Weekly Status Report
 
-**Project:** StudySync  
-**Team Number:** 4  
-**Team Name:** StudySync  
+**Project:** FishTech
+**Team Number:** 2
+**Team Name:** FishTech 
 
 ---
 
 ## Reporting Period
 **Week:** 3  
 **Meeting Held:** Yes  
-**Meeting Date:** September 17  
+**Meeting Date:** June 30 
 **Meeting Duration:** 30 minutes  
 **Meeting Format:** Zoom  
 
 ---
 
 ## Overview
-This document captures the **weekly status** of the StudySync project for the specified reporting period.  
+This document captures the **weekly status** of the FishTech project for the specified reporting period.  
 It is intended to provide a concise snapshot of progress, plans, and risks, and will be updated weekly throughout the project.
 
 This weekly status format is designed to:
@@ -35,8 +35,6 @@ At the time of this report:
 - Tasks are assigned to individual team members
 - Due dates and priorities are tracked per task
 
-(A visual snapshot of the board may be included in the repository alongside this file.)
-
 ---
 
 ## Progress Since Last Week
@@ -53,10 +51,8 @@ Key accomplishments include:
 
 ## Completed Tasks
 - Created GitHub repository and added all team members  
-- Established baseline frontend and backend directory structure  
 - Set up Trello project board with initial task breakdown  
 - Defined MVP feature scope  
-- Drafted initial user stories for availability scheduling and task management  
 
 ---
 
@@ -88,19 +84,18 @@ One discussion point involved balancing MVP scope versus optional enhancements. 
 
 ## Team Reflection
 The team reported:
-- Strong communication and consistent participation
-- Clear alignment on goals and responsibilities
-- Confidence in the project direction entering the development phase
+- Productive meeting with useful feedback 
+- Agreed on primary features, interactive map as an optional enhancement, and habitat builder 
+- Broke down responsibilities for acountability
 
 The weekly status format was found to be useful for maintaining accountability and focus.
 
 ---
 
 ## Individual Contributions This Week
-- **Aisha Rahman:** Coordinated meeting agenda, drafted user stories, set up Trello board  
-- **Miguel Alvarez:** Initialized backend project structure and reviewed Flask setup  
-- **Priya Patel:** Outlined initial database entities and relationships  
-- **Jordan Thompson:** Sketched frontend layouts and navigation flow  
+- **Mason Chansamone:** 
+- **Jackie Luu:**
+- **Gerladine Casas:**
 
 ---
 
