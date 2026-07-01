@@ -53,6 +53,9 @@ Key accomplishments include:
 - Created GitHub repository and added all team members  
 - Set up Trello project board with initial task breakdown  
 - Defined MVP feature scope  
+- Designed a basic wireframe to outline layout and navigation  
+- Created User Stories to define FishTech's core functionality  
+- Desinged preliminary Fish database schema to organize fish and habitat information  
 
 ---
 
